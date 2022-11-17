@@ -52,6 +52,7 @@ forked from [Tishacy/ZJU-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hit
 4. 测试
    
    Actions - Another boulder - Run workflow
+   
    Actions - ZJU-nCov-Hitcarder-Sample - Run workflow 运行测试。如果打卡成功，你将收到“打卡成功”的钉钉消息，如果打卡失败(例如验证码错误)，你将收到“打卡失败”，如果今天已打卡，你将收到“今天已经打卡”。
 
    ![](docs/manual_run.png)
